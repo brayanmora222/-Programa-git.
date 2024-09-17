@@ -1,2 +1,1 @@
-# -Programa-git.
-proyecto revisión de código 
+#Plantilla Administración Hotel
