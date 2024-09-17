@@ -1,0 +1,9 @@
+# Crear el repositorio en GitHub y copiar su url con el protocolo https.
+> git remote add github url
+> git remote -v
+>git push github master
+> cat > kotlin.txt
+git add .
+> git commit -m
+"Añadido datos."
+> git push origin master.
